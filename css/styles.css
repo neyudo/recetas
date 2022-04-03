@@ -14,10 +14,8 @@ html {
 body {
     border: 1px solid black;
     background-color: #FF4545;
-    width: 100vw;
-    min-width: 350px;
-    max-width: 450px;
-    height: 100vh;
+    width: 390px;
+    height: 844px;
 }
 /* ____________Header__________________ */
 
@@ -146,7 +144,7 @@ body {
 }
 .footer__menu__container {
     color: #FF6060;
-    width: 100vw;
+    width: 390px;
     height: 54px;
     display: flex;
     justify-content: space-evenly;
