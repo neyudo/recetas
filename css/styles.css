@@ -1,7 +1,7 @@
 html {
     box-sizing: border-box;
     font-size: 62.5%;
-    font-family: Eczar, serif;;
+    font-family: Eczar, serif;
 }
 
 *,
@@ -12,7 +12,10 @@ html {
     padding: 0;
 }
 body {
-    border: 1px solid black;
+}
+.global {
+    margin: 0 auto;
+    padding-top: 1px;
     background-color: #FF4545;
     width: 390px;
     height: 844px;
