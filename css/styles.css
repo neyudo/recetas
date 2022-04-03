@@ -14,8 +14,10 @@ html {
 body {
     border: 1px solid black;
     background-color: #FF4545;
-    width: 390px;
-    height: 844px;
+    width: 100vw;
+    min-width: 350px;
+    max-width: 450px;
+    height: 100vh;
 }
 /* ____________Header__________________ */
 
@@ -108,6 +110,9 @@ body {
     color: #FF6060;
     font-size: 1.6rem;
 }
+.main__recetas .receta__text .title__time__kcal p {
+    text-align: center;
+}
 
 .main__recetas .receta__text .material-icons {
     font-size: 1.1rem;
@@ -141,7 +146,7 @@ body {
 }
 .footer__menu__container {
     color: #FF6060;
-    width: 390px;
+    width: 100vw;
     height: 54px;
     display: flex;
     justify-content: space-evenly;
