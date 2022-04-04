@@ -17,7 +17,7 @@ html {
     padding-top: 1px;
     background-color: #FF4545;
     width: 390px;
-    height: 844px;
+    height: auto;
 }
 /* ____________Header__________________ */
 
@@ -73,6 +73,7 @@ html {
     margin: 45px auto 0 auto;
     width: 310px;
     height: auto;
+    padding-bottom: 150px;
 }
 .main__recetas .main__recetas__container {
     width: auto;
